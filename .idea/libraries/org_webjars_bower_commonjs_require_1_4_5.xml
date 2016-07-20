@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.webjars.bower:commonjs-require:1.4.5" type="repository">
+    <properties maven-id="org.webjars.bower:commonjs-require:1.4.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/bower/commonjs-require/1.4.5/commonjs-require-1.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
